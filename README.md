@@ -5,7 +5,7 @@
 - Audio: Sound Effects - Kennedy
 - Audio: Environmental Music
 - Collision detection - Nilo
-- Player Economy - Alex
+- Player Economy - Alex *
 - Score System / High Score - Dai
 - Core Game Start / Stop / Reset - Audrey
 - Basic Art Assets - Chapman
