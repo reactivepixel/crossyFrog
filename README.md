@@ -1,7 +1,7 @@
 # crossyFrog
 
 - Core Movement - Avery
-- Moving Obstacles in a lane - Sean
+- Moving Obstacles in a lane - Sean*
 - Audio: Sound Effects - Kennedy
 - Audio: Environmental Music
 - Collision detection - Nilo
