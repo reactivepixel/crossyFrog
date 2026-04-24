@@ -6,8 +6,8 @@
 - Audio: Environmental Music
 - Collision detection - Nilo
 - Player Economy - Alex
-- Score System / High Score - Dai
+- Score System / High Score - Dai ****
 - Core Game Start / Stop / Reset - Audrey
-- Basic Art Assets - Chapman
+- Basic Art Assets - Chapman*
 - Power-ups / buffs - Raymond
 - Multiple Chars that unlock - Kasey
